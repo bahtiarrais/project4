@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="36.528" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="36.528" timestamp="2020-02-24 22:43:08" hostname="NewUser - 192.168.5.7" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value="Xiaomi Redmi 4X (Android 7.1.2)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\NewUser\\git\\project4\\Reports\\20200224_224304\\New Test Suite\\20200224_224304"/>
+         <property name="logFiles" value="C:\\Users\\NewUser\\git\\project4\\Reports\\20200224_224304\\New Test Suite\\20200224_224304\\appium.log, C:\\Users\\NewUser\\git\\project4\\Reports\\20200224_224304\\New Test Suite\\20200224_224304\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="NewUser - 192.168.5.7"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{\&quot;status\&quot;:0,\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.12.1\&quot;}},\&quot;sessionId\&quot;:null}"/>
+         <property name="katalonVersion" value="7.1.2.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.12.1"/>
+         <property name="deviceModel" value="Redmi 4X"/>
+         <property name="hostAddress" value="192.168.5.7"/>
+         <property name="deviceManufacturer" value="Xiaomi"/>
+         <property name="deviceId" value="4b974607d040"/>
+         <property name="deviceName" value="Xiaomi Redmi 4X (Android 7.1.2)"/>
+         <property name="deviceOSVersion" value="7.1.2"/>
+      </properties>
+      <testcase name="Test Cases/test 1" time="28.993" classname="Test Cases/test 1" status="PASSED">
+         <system-out><![CDATA[2020-02-24 22:43:08 - [TEST_CASE][PASSED] - Test Cases/test 1: Test Cases/test 1
+
+2020-02-24 22:43:09 - [TEST_STEP][PASSED] - startExistingApplication("com.instagram.android", STOP_ON_FAILURE): Starting app with application ID: 'com.instagram.android'
+
+2020-02-24 22:43:13 - [MESSAGE][INFO] - Appium server started on port 56,820
+
+2020-02-24 22:43:32 - [MESSAGE][PASSED] - Starting app with application ID: 'com.instagram.android'
+
+2020-02-24 22:43:32 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2020-02-24 22:43:37 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-02-24 22:43:37 - [TEST_STEP][NOT_RUN] - scrollToText("9gag", STOP_ON_FAILURE): NOT_RUN: scrollToText("9gag", STOP_ON_FAILURE)
+
+2020-02-24 22:43:37 - [MESSAGE][NOT_RUN] - NOT_RUN: scrollToText("9gag", STOP_ON_FAILURE)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-02-24 22:43:08 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/test 1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

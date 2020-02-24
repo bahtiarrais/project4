@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,2020-02-24 22:43:08,2020-02-24 22:43:37,29.433s,PASSED
+,,,,,,,
+Test Cases/test 1,,,,2020-02-24 22:43:08,2020-02-24 22:43:37,28.993s,PASSED
+"startExistingApplication(""com.instagram.android"", STOP_ON_FAILURE)",,,,2020-02-24 22:43:09,2020-02-24 22:43:32,23.492s,PASSED
+"delay(5, STOP_ON_FAILURE)",,,,2020-02-24 22:43:32,2020-02-24 22:43:37,5.037s,PASSED
+"scrollToText(""9gag"", STOP_ON_FAILURE)",,,,2020-02-24 22:43:37,2020-02-24 22:43:37,0.002s,NOT_RUN

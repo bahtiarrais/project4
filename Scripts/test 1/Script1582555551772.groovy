@@ -19,5 +19,5 @@ Mobile.startExistingApplication('com.instagram.android', FailureHandling.STOP_ON
 
 Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.scrollToText('9gag', FailureHandling.STOP_ON_FAILURE)
+not_run: Mobile.scrollToText('9gag', FailureHandling.STOP_ON_FAILURE)
 
